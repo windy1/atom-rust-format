@@ -1,7 +1,7 @@
 {
   "name": "rust-format",
   "main": "./lib/main",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Format your Rust source code using rustfmt",
   "keywords": ["rustfmt", "rust-format", "rust", "format", "rs", "atom", "formatter", "linter", "rustc"],
   "repository": "https://github.com/windy1/atom-rust-format",
