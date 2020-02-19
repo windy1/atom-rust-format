@@ -12,7 +12,7 @@ must set the value of the `Executable` configuration entry to point to `rustfmt`
 You must enable `Format On Save` if you would like your Rust source code to be formatted every time you save. Otherwise,
 `ctrl-shift-m` is the default keybinding to format the currently open file.
 
-# Custom rustfmt configuration
+## Custom rustfmt configuration
 
 `rustfmt` has a global default configuration, if you would like to override this global configuration, you should edit
 `Config Path` in this package's configuration.
