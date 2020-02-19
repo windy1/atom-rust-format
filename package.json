@@ -1,7 +1,7 @@
 {
   "name": "rust-format",
   "main": "./lib/main",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Format your Rust source code using rustfmt",
   "keywords": [
     "rustfmt",
