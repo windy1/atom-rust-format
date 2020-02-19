@@ -1,2 +1,0 @@
-'atom-text-editor':
-    'ctrl-shift-m': 'rust-format:format'
